@@ -23,11 +23,11 @@ For the MVP:
 
 A business invites users via a referral link.
 
-The business receives a reward when the invited user:
+The business receives a reward when all of the conditions are met:
 
-1. Registers using the referral link.
-2. Uses services from **multiple businesses**.
-3. Performs these actions **several times** (activity threshold).
+1. Registers using the referral link provided by the business.
+2. The user has to have at least some number (some hard coded number in the source code but placed in a place easy to find and change)  of complete (finished) booking services before the inviting business receives reward.
+3. The services that the user books that count towards this can be of any business but the inviting business.
 
 ## 2. User → User
 
@@ -36,8 +36,7 @@ A user invites another user.
 The inviting user receives a reward when the invited user:
 
 1. Registers using the referral link.
-2. Uses services across **several different businesses**.
-3. Reaches the required usage threshold.
+2. Uses services across different businesses (at least 2 different and also with some minimum baseline)
 
 
 ## 3. Business → Business
