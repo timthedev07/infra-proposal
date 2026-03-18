@@ -32,7 +32,7 @@ FEBRUARY 25, 2026
     \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
     4**
 
-## 4.1. IDENTITY MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 4 4.2. AUTHENTICATION AND AUTHORISATION MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 5 4.3. BUSINESS MANAGEMENT MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 6 4.4. BUSINESS CLIENTS MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 7 4.5. PERSONNEL MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 9 4.6. SERVICES MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 10 4.7. SCHEDULE MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 11 4.8. RECORD MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 12 4.9. NOTIFICATIONS MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 13 4.10. MARKETING MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 14 4.11. PAYMENTS MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 15 4.12. LOYALTY AND PREPAYMENT MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 17 4.13. REPORT MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 19  {#identity-module-.....................................................................................................................-4-4.2.-authentication-and-authorisation-module-..............................................................................................-5-4.3.-business-management-module-..........................................................................................................-6-4.4.-business-clients-module-.................................................................................................................-7-4.5.-personnel-module-.........................................................................................................................-9-4.6.-services-module-............................................................................................................................-10-4.7.-schedule-module-.........................................................................................................................-11-4.8.-record-module-...........................................................................................................................-12-4.9.-notifications-module-.......................................................................................................................-13-4.10.-marketing-module-......................................................................................................................-14-4.11.-payments-module-..........................................................................................................................-15-4.12.-loyalty-and-prepayment-module-...................................................................................................-17-4.13.-report-module-...............................................................................................................................-19 .unnumbered}
+## 4.1. IDENTITY MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 4 4.2. AUTHENTICATION AND AUTHORISATION MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 5 4.3. BUSINESS MANAGEMENT MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 6 4.4. BUSINESS CLIENTS MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 7 4.5. PERSONNEL MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 9 4.6. SERVICES MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 10 4.7. SCHEDULE MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 11 4.8. booking MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 12 4.9. NOTIFICATIONS MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 13 4.10. MARKETING MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 14 4.11. PAYMENTS MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 15 4.12. LOYALTY AND PREPAYMENT MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 17 4.13. REPORT MODULE \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 19  {#identity-module-.....................................................................................................................-4-4.2.-authentication-and-authorisation-module-..............................................................................................-5-4.3.-business-management-module-..........................................................................................................-6-4.4.-business-clients-module-.................................................................................................................-7-4.5.-personnel-module-.........................................................................................................................-9-4.6.-services-module-............................................................................................................................-10-4.7.-schedule-module-.........................................................................................................................-11-4.8.-booking-module-...........................................................................................................................-12-4.9.-notifications-module-.......................................................................................................................-13-4.10.-marketing-module-......................................................................................................................-14-4.11.-payments-module-..........................................................................................................................-15-4.12.-loyalty-and-prepayment-module-...................................................................................................-17-4.13.-report-module-...............................................................................................................................-19 .unnumbered}
 
 5.  **PRICING AND SUBSCRIPTION LEVELS
     \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
@@ -80,10 +80,10 @@ FEBRUARY 25, 2026
 System.
 
 > 2.2. **End User** --- A User who uses the System to create, view, and
-> manage their own service records.
+> manage their own service bookings.
 >
 > 2.3. **Business Operator** --- A User who acts on behalf of a business
-> and manages services, schedules, customers, employees, and records
+> and manages services, schedules, customers, employees, and bookings
 > within the relevant business.
 >
 > 2.4. **Platform Administrator** --- A User with extended privileges
@@ -114,7 +114,7 @@ System.
 >
 > 3.2.6. Schedule Module
 >
-> 3.2.7. Records Module
+> 3.2.7. bookings Module
 >
 > 3.2.8. Notifications module
 >
@@ -254,7 +254,7 @@ changed.
 > Business entities within the System.
 >
 > 4.3.1.2. A business is a logical unit within which services, schedules
-> and records are managed.
+> and bookings are managed.
 >
 > 4.3.2. Business Entity
 
@@ -337,11 +337,11 @@ changed.
 > storage, and management of customer data within a specific Business.
 >
 > 4.4.1.2. A Business Customer is used to identify a person for whom
-> service records are created within the relevant Business.
+> service bookings are created within the relevant Business.
 >
 > 4.4.2. Business Client Entity
 >
-> 4.4.2.1. A Business Customer is a natural person for whom a record is
+> 4.4.2.1. A Business Customer is a natural person for whom a booking is
 > created within a specific Business for the purpose of receiving
 > services.
 
@@ -373,7 +373,7 @@ changed.
 
 4.4.3.1.7. Business Client status (Active, Deleted, Suspended)
 
-4.4.3.1.8. List of scheduled and historical records
+4.4.3.1.8. List of scheduled and historical bookings
 
 > 4.4.4. Functional requirements
 >
@@ -392,9 +392,9 @@ changed.
 > 4.4.4.5. The system must ensure the logical deletion and blocking of
 > the Business Client within the relevant Business.
 >
-> 4.4.5. Rules for creating/using a client when creating a record
+> 4.4.5. Rules for creating/using a client when creating a booking
 
-4.4.5.1. When creating a record, the System must ensure:
+4.4.5.1. When creating a booking, the System must ensure:
 
 > 4.4.5.1. for a registered End User --- the use of an existing Business
 > Client associated with the Account, or the creation of a new Business
@@ -428,7 +428,7 @@ changed.
 4.4.6.4.2. Contact telephone number and/or email address
 
 > 4.4.6.5. If there are no mandatory import fields, the System shall
-> reject the corresponding record.
+> reject the corresponding booking.
 
 ## Personnel module 
 
@@ -436,7 +436,7 @@ changed.
 >
 > 4.5.1.1. The personnel module provides management of Business
 > employees who are involved in providing services and/or performing
-> records.
+> bookings.
 >
 > 4.5.1.2 Within this module, an employee is considered as an entity
 > linked to a specific Business.
@@ -484,18 +484,18 @@ Employee:
 4.5.4.1.3. Deleted
 
 > 4.5.4.2. An employee with Suspended or Deleted status should not be
-> used to create new records.
+> used to create new bookings.
 >
 > 4.5.5. Connection with other modules
 >
 > 4.5.5. An employee can be used in the schedule module to determine
 > availability.
 >
-> 4.5.5.2 An employee can be used in the records module to link a record
+> 4.5.5.2 An employee can be used in the bookings module to link a booking
 > to a specific performer.
 >
 > 4.5.5. The detailed logic of using Employees in the schedule and
-> records is defined in the relevant sections of this technical
+> bookings is defined in the relevant sections of this technical
 > specification.
 
 ## Services Module 
@@ -505,7 +505,7 @@ Employee:
 > 4.6.1.1. The Services Module provides management of the list of
 > services provided by the Business within the System.
 >
-> 4.6.1.2. The service defines the type of work available for recording
+> 4.6.1.2. The service defines the type of work available for bookinging
 > by End Users.
 >
 > 4.6.1.3 The System shall provide the ability to link a Service to one
@@ -544,7 +544,7 @@ Business.
 > specified in clause 4.6.2.1 within the Business.
 >
 > 4.6.3.4 A Service with Inactive status must not be used to create new
-> records.
+> bookings.
 >
 > 4.6.4. Relationship between Services and Employees
 
@@ -563,10 +563,10 @@ Business.
 > 4.7.1. Purpose of the module
 >
 > 4.7.1.1. The schedule module allows you to determine the time
-> availability of the Business and Employees for creating records.
+> availability of the Business and Employees for creating bookings.
 >
 > 4.7.1.2. The schedule is used to form available time slots in the
-> recording module.
+> bookinging module.
 >
 > 4.7.2. Business Schedule
 >
@@ -610,7 +610,7 @@ schedules.
 > of Employee schedule data.
 >
 > 4.7.5.3. The system shall ensure the determination of time intervals
-> available for recording, taking into account:
+> available for bookinging, taking into account:
 
 4.7.5.3.1. Business schedule
 
@@ -618,20 +618,20 @@ schedules.
 
 4.7.5.3. Exceptions to the Schedule
 
-## Records module 
+## bookings module 
 
 > 4.8.1. Purpose of the module
 >
-> 4.8.1.1. The Records Module enables the creation, modification, and
-> cancellation of End User records for Business Services, taking into
+> 4.8.1.1. The bookings Module enables the creation, modification, and
+> cancellation of End User bookings for Business Services, taking into
 > account the schedule and availability of Employees.
 >
 > 4.8.1.2. A booking is the reservation of time slots for the provision
 > of a specific Service by a specific Employee.
 >
-> 4.8.2. Essence Record
+> 4.8.2. Essence booking
 
-4.8.2.1. The system must store the following attributes for each Record:
+4.8.2.1. The system must store the following attributes for each booking:
 
 4.8.2.1. Unique identifier
 
@@ -647,7 +647,7 @@ schedules.
 
 > 4.8.3. Functional requirements
 
-4.8.3. The system shall ensure the creation of a Record provided that:
+4.8.3. The system shall ensure the creation of a booking provided that:
 
 4.8.3.1.1. Active business status
 
@@ -658,19 +658,19 @@ schedules.
 > 4.8.3.1.4. Availability of an accessible time slot in accordance with
 > the schedule module
 
-4.8.3.1.5. No conflict with existing Employee Records
+4.8.3.1.5. No conflict with existing Employee bookings
 
-> 4.8.3.2. The system must ensure that information about the Record is
+> 4.8.3.2. The system must ensure that information about the booking is
 > obtained by identifier within the relevant Business.
 
-4.8.3.3. The system must ensure that a list of Records is obtained:
+4.8.3.3. The system must ensure that a list of bookings is obtained:
 
-> 4.8.3.3.1. for the End User --- their own Records; 4.8.3.3.2. for the
-> Business Operator --- Records of the relevant Business.
+> 4.8.3.3.1. for the End User --- their own bookings; 4.8.3.3.2. for the
+> Business Operator --- bookings of the relevant Business.
 
-4.8.3.4. The system must ensure the cancellation of a Record.
+4.8.3.4. The system must ensure the cancellation of a booking.
 
-> 4.8.3.5. The system must ensure that the time of the Record can be
+> 4.8.3.5. The system must ensure that the time of the booking can be
 > changed, subject to the requirements of clause 4.8.3.1.
 >
 > 4.8.3.6. Entries with the status Completed, Cancelled, No_show cannot
@@ -678,13 +678,13 @@ schedules.
 >
 > 4.8.4. Rules and restrictions
 >
-> 4.8.4.1. The system must not allow the creation of records with
+> 4.8.4.1. The system must not allow the creation of bookings with
 > overlapping times for the same employee.
 
-4.8.4. An end user may have several active Records at the same time.
+4.8.4. An end user may have several active bookings at the same time.
 
-> 4.8.4.3. The end time of a Record is determined as the sum of the
-> start time of the Record and the duration of the corresponding
+> 4.8.4.3. The end time of a booking is determined as the sum of the
+> start time of the booking and the duration of the corresponding
 > Service.
 
 ## Notification module 
@@ -695,24 +695,24 @@ schedules.
 > messages to System Users in response to specific events.
 >
 > 4.9.1.2. The module is used to inform about changes in the status of
-> Records and other events specified in this technical assignment.
+> bookings and other events specified in this technical assignment.
 >
 > 4.9.2. Events for notifications
 >
 > 4.9.2.1. The System shall generate notifications in the event of the
 > following events:
 
-4.9.2.1.1. creation of a Record;
+4.9.2.1.1. creation of a booking;
 
-4.9.2.1.2. a change in the time of a Record;
+4.9.2.1.2. a change in the time of a booking;
 
 > 4.9.3. Notification recipients
 
 4.9.3.1. The system shall ensure that notifications are sent to:
 
-4.9.3.1.1. End user --- regarding their own Records
+4.9.3.1.1. End user --- regarding their own bookings
 
-4.9.3.1.2. The Business Operator --- regarding the Records of the
+4.9.3.1.2. The Business Operator --- regarding the bookings of the
 relevant Business.
 
 > 4.9.4. Notification channels
@@ -732,7 +732,7 @@ relevant Business.
 
 4.9.5.1.1. Type of event
 
-4.9.5.1. Date and time of recording
+4.9.5.1. Date and time of bookinging
 
 4.9.5.1.3. Service name
 
@@ -751,7 +751,7 @@ relevant Business.
 > codes.
 >
 > 4.10.1.2. Marketing mechanisms are applied to Services when creating
-> Records.
+> bookings.
 >
 > 4.10.1.3. The marketing module can initiate the sending of marketing
 > messages through the notification module
@@ -784,12 +784,12 @@ relevant Business.
 4.10.2.2.2. Flash sale
 
 > 4.10.2.2.2.1. The promotion applies if the time of creation of the
-> Record is within a specified interval before the start of the session
+> booking is within a specified interval before the start of the session
 > (for example, no more than 60 minutes before the start).
 
 4.10.2.2.3. Happy/sad hours
 
-> 4.10.2.2.3.1. The promotion applies only to Records whose start time
+> 4.10.2.2.3.1. The promotion applies only to bookings whose start time
 > falls within a specified time interval during the day.
 >
 > 4.10.3. Connection with services
@@ -797,7 +797,7 @@ relevant Business.
 > 4.10.3.1. The system must provide the ability to link a marketing
 > promotion to one or more Services within the relevant Business.
 >
-> 4.10.3.2. When creating a Record, the system must take into account
+> 4.10.3.2. When creating a booking, the system must take into account
 > active marketing campaigns that meet the conditions of use.
 >
 > 4.10.4. Marketing messages
@@ -837,8 +837,8 @@ relevant Business.
 > 4.10.5.1. The system shall apply a discount only if the promotion has
 > the status Active and is within the specified period of validity.
 >
-> 4.10.5.2. The final price of the service must be recorded in the
-> Record at the time of its creation.
+> 4.10.5.2. The final price of the service must be bookinged in the
+> booking at the time of its creation.
 
 ## Payment module 
 
@@ -848,7 +848,7 @@ relevant Business.
 > processing for services and prepaid products within the System.
 >
 > 4.11.1.2. The payment module provides integration with external
-> payment services, recording of offline payments, and storage of
+> payment services, bookinging of offline payments, and storage of
 > payment transaction information.
 >
 > 4.11.2. Supported payment methods
@@ -861,7 +861,7 @@ relevant Business.
 > (hereinafter referred to as the Payment Provider), specified by the
 > Customer prior to implementation;
 
-4.11.2.1.3. cash payments recorded in the System;
+4.11.2.1.3. cash payments bookinged in the System;
 
 4.11.2.1.4. Tap-to-Pay through an integrated Payment Provider.
 
@@ -871,7 +871,7 @@ relevant Business.
 > Payment Provider.
 >
 > 4.11.3.2. Offline payment --- a payment made outside the System and
-> recorded manually by the Business Operator.
+> bookinged manually by the Business Operator.
 >
 > 4.11.3.3. Tap-to-Pay --- a payment initiated through the System and
 > processed by the Payment Provider using a supported device.
@@ -888,7 +888,7 @@ relevant Business.
 > 4.11.4.3. The system must ensure the processing of asynchronous
 > messages (webhooks) from the Payment Provider.
 >
-> 4.11.5. Recording offline payments
+> 4.11.5. bookinging offline payments
 >
 > 4.11.5.1. In the case of an offline payment, the System must allow the
 > Business Operator to manually create a Payment and set its status as
@@ -906,7 +906,7 @@ relevant Business.
 > between two acceptable payment methods.
 >
 > 4.11.6.3. The system must ensure that each component of a combined
-> payment is recorded as a separate payment transaction.
+> payment is bookinged as a separate payment transaction.
 >
 > 4.11.6.4. The transaction shall be considered successful only if all
 > components of the payment are confirmed.
@@ -953,7 +953,7 @@ relevant Business.
 > mechanisms and encourages repeat customer visits, in particular
 > through gift cards, subscriptions and service packages.
 >
-> 4.12.1.2. The module\'s mechanisms are applied when creating Records
+> 4.12.1.2. The module\'s mechanisms are applied when creating bookings
 > and making payments.
 >
 > 4.12.2. Gift cards
@@ -987,8 +987,8 @@ relevant Business.
 > 4.12.2.2. The system must ensure the possibility of partial use of the
 > gift card denomination.
 >
-> 4.12.2.2. The amount used on a gift card must be recorded in the
-> relevant Record.
+> 4.12.2.2. The amount used on a gift card must be bookinged in the
+> relevant booking.
 >
 > 4.12.2.2.4. After the full value has been used, the card status
 > changes to redeemed.
@@ -1020,7 +1020,7 @@ relevant Business.
 > a specific User.
 >
 > 4.12.3.2.2. The system must automatically apply the benefits of the
-> subscription when creating a Record.
+> subscription when creating a booking.
 
 4.12.4. Service packages
 
@@ -1050,7 +1050,7 @@ relevant Business.
 > 4.12.4.2.1. The system must ensure that the service package is linked
 > to the User after payment has been made.
 >
-> 4.12.4.2.2. When creating a Record, the system must check for an
+> 4.12.4.2.2. When creating a booking, the system must check for an
 > active package and available uses.
 >
 > 4.12.4.2.3. After using the service within the package, the number of
@@ -1058,14 +1058,14 @@ relevant Business.
 >
 > 4.12.5. Interaction with other modules
 >
-> 4.12.5.1. The module uses the Payments module to record the fact of
+> 4.12.5.1. The module uses the Payments module to booking the fact of
 > payment for gift cards, subscriptions, and packages.
 >
-> 4.12.5.2. The module interacts with the Records module to
+> 4.12.5.2. The module interacts with the bookings module to
 > automatically apply benefits or deduct available uses.
 >
 > 4.12.5.3. The final conditions for applying discounts or debits are
-> recorded in the Record.
+> bookinged in the booking.
 >
 > 4.12.6. Purchase and activation of loyalty products
 >
@@ -1102,7 +1102,7 @@ relevant Business.
 >
 > 4.13.1.2. The reporting module is designed to support management
 > decision-making and performance monitoring (finance, customers,
-> services, employees, records).
+> services, employees, bookings).
 >
 > 4.13.2. General functional requirements
 >
@@ -1121,17 +1121,17 @@ relevant Business.
 
 4.13.2.4.2. Service
 
-4.13.2.4.3. Record Status
+4.13.2.4.3. booking Status
 
 4.13.2.4.4. Payment Status
 
-4.13.2.4.5. Record creation channel
+4.13.2.4.5. booking creation channel
 
 4.13.2.4.6. Payment method
 
 > 4.13.2.4.6.1. The system must provide a display of aggregated
 > indicators (amounts, quantities, average values) and details down to
-> the level of specific records.
+> the level of specific bookings.
 >
 > 4.13.2.4.6.2. The system must provide the ability to export reports
 > (e.g., CSV/PDF).
@@ -1165,17 +1165,17 @@ relevant Business.
 4.13.3.2.1.3. number of repeat customers during the period.
 
 > 4.13.3.2.2. The system should generate a \"Customer Activity\" report
-> showing the number of records per customer and/or frequency of visits
+> showing the number of bookings per customer and/or frequency of visits
 > (if data is available).
 >
-> 4.13.3.3. Reports on records
+> 4.13.3.3. Reports on bookings
 >
-> 4.13.3.3.1. The system should generate a \"Records for the period\"
+> 4.13.3.3.1. The system should generate a \"bookings for the period\"
 > report showing:
 
-4.13.3.3.1. The total number of records
+4.13.3.3.1. The total number of bookings
 
-4.13.3.3.1.2. The number of records by status
+4.13.3.3.1.2. The number of bookings by status
 
 > (planned/confirmed/completed/cancelled/no_show or equivalent).
 >
@@ -1198,12 +1198,12 @@ relevant Business.
 > 4.13.3.5. Reports on employees
 >
 > 4.13.3.5.1. The system should generate a report \"Income by
-> Employees\" showing the amount of payments linked to the records of
+> Employees\" showing the amount of payments linked to the bookings of
 > specific Employees for the period.
 >
-> 4.13.3.5.2. The system should generate a report \"Number of records by
-> employees\" showing the number of records broken down by Employees and
-> record statuses.
+> 4.13.3.5.2. The system should generate a report \"Number of bookings by
+> employees\" showing the number of bookings broken down by Employees and
+> booking statuses.
 >
 > 4.13.3.5.3. The system must generate a report \"Employee remuneration
 > accruals\" for a specified period.
@@ -1313,10 +1313,10 @@ relevant Business.
 |                 |                | > business)    |                 |
 +-----------------+----------------+----------------+-----------------+
 | Viewing your    | \+             | > \+           | \+              |
-| own records     |                |                |                 |
+| own bookings     |                |                |                 |
 +-----------------+----------------+----------------+-----------------+
 | Creating a      | \+             | > \+ (on       | \-              |
-| record          |                | > behalf of a  |                 |
+| booking          |                | > behalf of a  |                 |
 |                 |                | > business)    |                 |
 +-----------------+----------------+----------------+-----------------+
 | Sending         | \-             | > \+ (on       | \+              |
